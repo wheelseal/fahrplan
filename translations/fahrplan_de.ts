@@ -878,12 +878,12 @@ Von der Fahrplan-App hinzugefügt. Bitte überprüfen Sie diese Informationen vo
     <message>
         <location filename="../src/parser/parser_efa.cpp" line="685"/>
         <source>&lt;span style=&quot;color:#b30;&quot;&gt;%1 min late&lt;/span&gt;</source>
-        <translation>&lt;span style=&quot;color:#b30;&quot;&gt;%1 min Verspätung&lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot;Farbe:#b30;&quot;&gt;%1 min Verspätung&lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_efa.cpp" line="688"/>
         <source>&lt;span style=&quot;color:#093; font-weight: normal;&quot;&gt;on time&lt;/span&gt;</source>
-        <translation>&lt;span style=&quot;color:#093; font-weight: normal;&quot;&gt;pünktlich&lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot;Farbe:#093; font-weight: normal;&quot;&gt;pünktlich&lt;/span&gt;</translation>
     </message>
 </context>
 <context>
@@ -891,55 +891,55 @@ Von der Fahrplan-App hinzugefügt. Bitte überprüfen Sie diese Informationen vo
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="74"/>
         <source>All</source>
-        <translation type="unfinished">Alle</translation>
+        <translation>Alle</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="75"/>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1055"/>
         <source>Bus</source>
-        <translation type="unfinished">Bus</translation>
+        <translation>Bus</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="76"/>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1068"/>
         <source>Train</source>
-        <translation type="unfinished">Zug</translation>
+        <translation>Zug</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="77"/>
         <source>Airplane</source>
-        <translation type="unfinished"></translation>
+        <translation>Flugzeug</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="78"/>
         <source>Bus and train</source>
-        <translation type="unfinished"></translation>
+        <translation>Bus und Bahn</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="79"/>
         <source>Bus and airplane</source>
-        <translation type="unfinished"></translation>
+        <translation>Bus und Flugzeug</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="80"/>
         <source>Train and airplane</source>
-        <translation type="unfinished"></translation>
+        <translation>Zug und Flugzeug</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="247"/>
         <source>Timetables are only available for stops.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fahrpläne sind nur an Haltestellen verfügbar</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="325"/>
         <location filename="../src/parser/parser_finland_matka.cpp" line="340"/>
         <source>Failed to parse timetable data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fahrplandaten konnten nicht analysiert werden</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="691"/>
         <source>Walk %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fußweg %1</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="713"/>
@@ -949,160 +949,160 @@ Von der Fahrplan-App hinzugefügt. Bitte überprüfen Sie diese Informationen vo
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="715"/>
         <source>Departures</source>
-        <translation type="unfinished">Abfahrten</translation>
+        <translation>Abfahrten</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="716"/>
         <source>ddd MMM d, HH:mm</source>
-        <translation type="unfinished">ddd MMM d, HH:mm</translation>
+        <translation>ddd MMM d, HH:mm</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="838"/>
         <source>Walk</source>
-        <translation type="unfinished"></translation>
+        <translation>Fußweg</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="889"/>
         <source>Invalid transport type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige transportart: %1</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="970"/>
         <location filename="../src/parser/parser_finland_matka.cpp" line="972"/>
         <source>km</source>
-        <translation type="unfinished"></translation>
+        <translation>Km</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="975"/>
         <source>m</source>
         <extracomment>Meters</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Meter</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1002"/>
         <source>Express train</source>
-        <translation type="unfinished"></translation>
+        <translation>Schnellzug</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1007"/>
         <source>Regional train</source>
-        <translation type="unfinished"></translation>
+        <translation>Regional Bahn</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1008"/>
         <source>Train bus</source>
-        <translation type="unfinished"></translation>
+        <translation>Zug/Bus</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1011"/>
         <source>Commuter train</source>
-        <translation type="unfinished">S-Bahn</translation>
+        <translation>S-Bahn</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1014"/>
         <source>Express bus</source>
-        <translation type="unfinished">Expressbus</translation>
+        <translation>Expressbus</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1015"/>
         <source>Taxi</source>
-        <translation type="unfinished">Taxi</translation>
+        <translation>Taxi</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1017"/>
         <source>Connection bus</source>
-        <translation type="unfinished"></translation>
+        <translation>Anschlussbus</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1021"/>
         <source>Local bus</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahverkehrsbus</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1058"/>
         <source>City bus</source>
-        <translation type="unfinished"></translation>
+        <translation>Stadtbus</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1061"/>
         <source>Flight</source>
         <extracomment>Used in conjunction with a flight number, e.g. &quot;Flight D1234&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Flug</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1063"/>
         <source>Car</source>
-        <translation type="unfinished">Auto</translation>
+        <translation>Auto</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1064"/>
         <source>Tram</source>
-        <translation type="unfinished"></translation>
+        <translation>Straßenbahn</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1065"/>
         <source>Metro</source>
-        <translation type="unfinished">Metro</translation>
+        <translation>U-Bahn</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1066"/>
         <source>Ferry</source>
-        <translation type="unfinished">Fähre</translation>
+        <translation>Fähre</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1069"/>
         <source>Unknown transport type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Unbekannte transportart: %1</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1180"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Halt</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1182"/>
         <source>Accomodation</source>
-        <translation type="unfinished"></translation>
+        <translation>Unterkünfte</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1184"/>
         <source>POI</source>
-        <translation type="unfinished"></translation>
+        <translation>Sehenswürdigkeit</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1186"/>
         <source>School</source>
-        <translation type="unfinished"></translation>
+        <translation>Schule</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1188"/>
         <source>Hospital</source>
-        <translation type="unfinished"></translation>
+        <translation>Krankenhaus</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1190"/>
         <source>Transport POI</source>
-        <translation type="unfinished"></translation>
+        <translation>Besonderer Transport</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1192"/>
         <source>District</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezirk</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1194"/>
         <source>Street</source>
-        <translation type="unfinished"></translation>
+        <translation>Straße</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.cpp" line="1265"/>
         <source>Unknown city</source>
-        <translation type="unfinished"></translation>
+        <translation>Stadt unbekannt</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_finland_matka.h" line="71"/>
         <source>Finland</source>
-        <translation type="unfinished"></translation>
+        <translation>Finnland</translation>
     </message>
 </context>
 <context>
@@ -1194,7 +1194,7 @@ Von der Fahrplan-App hinzugefügt. Bitte überprüfen Sie diese Informationen vo
     <message>
         <location filename="../src/parser/parser_hafasbinary.cpp" line="661"/>
         <source>Internal error occured, going earlier is not possible</source>
-        <translation>Interner Fehler: Früher anzeigen nicht möglich</translation>
+        <translation>Interner Fehler: Anzeigen von früheren Verbindungen nicht möglich</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_hafasbinary.cpp" line="740"/>
@@ -1295,7 +1295,7 @@ Von der Fahrplan-App hinzugefügt. Bitte überprüfen Sie diese Informationen vo
     <message>
         <location filename="../src/parser/parser_hafasxml.cpp" line="750"/>
         <source>Internal error occured, going later is not possible</source>
-        <translation>Interner Fehler: Später anzeigen nicht möglich</translation>
+        <translation>Interner Fehler: Anzeigen von späteren Verbindungen nicht möglich</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_hafasxml.cpp" line="775"/>
@@ -1312,7 +1312,7 @@ Von der Fahrplan-App hinzugefügt. Bitte überprüfen Sie diese Informationen vo
         <location filename="../src/parser/parser_hafasxml.cpp" line="885"/>
         <location filename="../src/parser/parser_hafasxml.cpp" line="1012"/>
         <source>Pl. %1</source>
-        <translation>Gl. %1</translation>
+        <translation>Gleis %1</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_hafasxml.cpp" line="962"/>
@@ -1638,22 +1638,22 @@ Von der Fahrplan-App hinzugefügt. Bitte überprüfen Sie diese Informationen vo
     <message>
         <location filename="../src/parser/parser_resrobot.cpp" line="49"/>
         <source>Short distance trips not allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kurze Ausflüge sind nicht erlaubt</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_resrobot.cpp" line="50"/>
         <source>Regional fare for reg. journey</source>
-        <translation type="unfinished"></translation>
+        <translation>Regionaltarif für die normale Fahrt</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_resrobot.cpp" line="51"/>
         <source>Engineering work. Bus/taxi repl.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bus/Taxi Ersatzverkehr wegeb Bauarbeiten</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_resrobot.cpp" line="52"/>
         <source>Detour due to engineering work</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubleitung aufgrund von Bauarbeiten</translation>
     </message>
     <message>
         <location filename="../src/parser/parser_resrobot.cpp" line="53"/>
